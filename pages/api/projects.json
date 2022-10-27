@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Betting App",
+    "image": "https://imgur.com/RHosyMp.jpg",
+    "description": "Web Application for soccer tournaments in Argentina, Brazil and USA. Where the user can vote for current matches, get points and win awards depending on theircountry",
+    "tags": ["react", "redux", "tailwind", "node", "postgreSQL", "express","javascript","firebase"],
+    "source_code": "https://github.com/NazarenoRios/Tonic3-Prode",
+    "demo": "https://www.youtube.com/watch?v=Wy08zf3ae2k"
+  },
+  {
+    "id": 2,
+    "name": "Butterflix (TMDB)",
+    "image": "https://imgur.com/Mfprpwl.jpg",
+    "description": "Movie and Tv show catalogue web application consuming TMDB's API. Available features include cookie based authentication,search, filters, favorites and exploring other user profiles.",
+    "tags": ["react","redux", "node", "postgreSQL", "express", "chakra-ui","javascript","firebase"],
+    "demo": "https://www.youtube.com/watch?v=58lNxGxueT0"
+  },
+  {
+    "id": 3,
+    "name": "Olympic Sports (e-commerce)",
+    "image": "https://imgur.com/INVeESN.jpg",
+    "description": "Web Application with different interaction possibilities according to users auth. Available features include cookie-based authentication, Google login, search, filters, favorites, cart, size selection, purchase history, mail order confirmation, admin panel to control users, products and categories.",
+    "tags": ["react", "node", "mongodb", "redux", "tailwind", "material-ui", "postgreSQL", "express", "firebase","javascript"],
+    "source_code": "https://github.com/NazarenoRios/OlympicSports",
+    "demo": "https://healthyways.herokuapp.com/"
+  },
+  {
+    "id": 4,
+    "name": "Greenland SW",
+    "image": "https://imgur.com/W2p9MYg.jpg",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["html","css","javascript","sass", "bootstrap"],
+    "source_code": "https://github.com/NazarenoRios/greenlandSw",
+    "demo": "https://greenlandsw.netlify.app/"
+  },
+  {
+    "id": 5,
+    "name": "GT Color",
+    "image": "https://imgur.com/IaDQqar.jpg",
+    "description": "Web game, where you have to guess the correct RGB color",
+    "tags": ["html","css","javascript"],
+    "source_code": "https://github.com/NazarenoRios/GTColor",
+    "demo": "https://gtcolor.netlify.app/"
+  },
+  {
+    "id": 6,
+    "name": "Typer 3000",
+    "image": "https://imgur.com/biqcaJe.jpg",
+    "description": "Web game, where you must quickly write the words that appear before the counter reaches 0",
+    "tags": ["html","css","javascript"],
+    "source_code": "https://github.com/NazarenoRios/Typer3000",
+    "demo": "https://typer3000.netlify.app/"
+  },
+  {
+    "id": 7,
+    "name": "To Do List",
+    "image": "https://imgur.com/7opIfup.jpg",
+    "description": "Web application where you can write a list of things you have to do. Where you can edit or delete them as you need",
+    "tags": ["html","css","javascript"],
+    "source_code": "https://github.com/NazarenoRios/ToDoList",
+    "demo": "https://best-todolist.netlify.app/"
+  },
+  {
+    "id": 8,
+    "name": "Weather Channel",
+    "image": "https://imgur.com/NsazGLe.jpg",
+    "description": "Web application where from an external api, you can search for information about the weather of the location you want.",
+    "tags": ["html","css","javascript"],
+    "source_code": "https://github.com/NazarenoRios/WeatherChannelv2",
+    "demo": "https://weatherchannel2022.netlify.app/"
+  },
+  {
+    "id": 9,
+    "name": "Saturday Countdown",
+    "image": "https://imgur.com/Y5sxiKi.jpg",
+    "description": "Web application where you can see an online clock with Argentina time, where there is also a counter until Saturday",
+    "tags": ["html","css","javascript"],
+    "source_code": "https://github.com/NazarenoRios/SaturdayCountdown",
+    "demo": "https://saturday-countdown.netlify.app/"
+  }
+]
