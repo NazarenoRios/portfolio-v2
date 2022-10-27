@@ -94,10 +94,22 @@
   border: 2px solid var(--accent-color);
   background: transparent;
   cursor: pointer;
+  margin-right: 1.5rem;
+}
+
+.outlined2 {
+  font-size: 1.25rem;
+  padding: 0.5rem 1rem;
+  color: #eee;
+  border: 2px solid #34f;
+  background: transparent;
+  cursor: pointer;
+  margin-right: 1.5rem;
 }
 
 .button:hover,
-.outlined:hover {
+.outlined:hover
+.outlined2:hover {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
 

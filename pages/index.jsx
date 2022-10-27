@@ -20,6 +20,9 @@ export default function HomePage() {
             <Link href="/contact">
               <button className={styles.outlined}>Contact Me</button>
             </Link>
+
+            <a style={{textDecoration:"none"}} href="https://drive.google.com/file/d/1PyeMFXyj70OKi8ghMBiGRsqyo3f1bQmB/view?usp=sharing" className={styles.outlined2} target="_blank">View CV</a>
+            
           </div>
           <Illustration className={styles.illustration} />
         </div>
