@@ -1,3 +1,7 @@
+import React from "react";
+import Image from 'next/image';
+import simpsons from "../assets/simpsons.gif"
+
 const AboutPage = () => {
   return (
     <>
@@ -24,6 +28,10 @@ const AboutPage = () => {
       This is the kind of person I am. I never leave anything half done, I always say, <span style={{color:"#1f5"}}>"if something has to be done, it has to be done well"</span>
       </h3>
       
+      <br/>
+      <br/>
+      <br/>
+      <Image src={simpsons} alt="gif" />
     </>
   );
 };
