@@ -26,11 +26,11 @@ const contactItems = [
   //   link: 'iamnitinr',
   //   href: 'https://www.twitter.com/iamnitinr',
   // },
-  {
-    social: 'instagram',
-    link: 'nazarenorios1',
-    href: 'https://www.instagram.com/nazarenorios1',
-  },
+  // {
+  //   social: 'instagram',
+  //   link: 'nazarenorios1',
+  //   href: 'https://www.instagram.com/nazarenorios1',
+  // },
   {
     social: 'telegram',
     link: 'Nazareno',
