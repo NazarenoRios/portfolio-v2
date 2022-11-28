@@ -23,7 +23,7 @@
     "description": "Web Application with different interaction possibilities according to users auth. Available features include cookie-based authentication, Google login, search, filters, favorites, cart, size selection, purchase history, mail order confirmation, admin panel to control users, products and categories.",
     "tags": ["react", "node", "mongodb", "redux", "tailwind", "material-ui", "postgreSQL", "express", "firebase","javascript"],
     "source_code": "https://github.com/NazarenoRios/OlympicSports",
-    "demo": "https://healthyways.herokuapp.com/"
+    "demo": "https://www.youtube.com/watch?v=5mcsn3wxW4g"
   },
   {
     "id": 4,
